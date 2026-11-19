@@ -22,6 +22,23 @@ adguardvpn-help.org
 # ai
 googleveo.video
 veoai.io
+ourdream.ai
+www.ourdream.ai
+app.ourdream.ai
+api.ourdream.ai
+static.ourdream.ai
+img.ourdream.ai
+media.ourdream.ai
+cdn.ourdream.ai
+r.ourdream.ai
+trpc.svc.ourdream.ai
+api.svc.ourdream.ai
+posthog-flags.svc.ourdream.ai
+core.ourdream.ai
+api.core.ourdream.ai
+vid.ourdream.ai
+loopcut.org
+www.loopcut.org
 
 # anime
 nyaa.si
@@ -179,6 +196,11 @@ ws.chatgpt.com
 8.47.0.0/16
 8.6.0.0/16
 99.84.0.0/16
+auth0.com
+gpt3-openai.com
+oaiusercontent.com
+64.239.123.129
+64.239.109.129
 
 # cub red
 172.67.207.253
@@ -186,6 +208,24 @@ ws.chatgpt.com
 104.21.69.116
 5.61.53.100
 cub.red
+130.17.15.104/32
+217.60.37.71
+65.9.62.11/32
+65.9.62.20/32
+65.9.62.46/32
+65.9.62.82/32
+66.90.90.202/32
+104.21.55.219/32
+104.21.77.208/32
+104.21.83.236/32
+109.238.90.239/32
+172.67.173.114/32
+172.67.183.114/32
+172.67.211.133/32
+178.248.233.148/32
+179.237.122.109/32
+201.51.13.40/32
+212.86.121.120/32
 
 # discord
 162.159.130.234
@@ -703,6 +743,33 @@ awsglobalaccelerator.com
 34.194.71.217
 34.194.255.230
 
+# netflix
+fast.com
+netflix.ca
+netflix.com
+netflix.com.au
+netflix.net
+netflixdnstest1.com
+netflixdnstest10.com
+netflixdnstest2.com
+netflixdnstest3.com
+netflixdnstest4.com
+netflixdnstest5.com
+netflixdnstest6.com
+netflixdnstest7.com
+netflixdnstest8.com
+netflixdnstest9.com
+netflixinvestor.com
+netflixstudios.com
+netflixtechblog.com
+nflxext.com
+nflximg.com
+nflximg.net
+nflxsearch.net
+nflxso.net
+nflxvideo.net
+onetrust.com
+
 # nnm club
 nnmclub.to
 104.21.95.93
@@ -944,6 +1011,10 @@ ton.org
 5.28.192.0/18
 91.108.8.0/21
 91.108.16.0/21
+109.239.140.0/24
+legra.ph
+stel.com
+telegramdownload.com
 
 # thumbzilla
 thumbzilla.com
@@ -1058,6 +1129,19 @@ maintracker.org
 rutracker.net
 188.114.97.3
 tokyotosho.info
+kinozal-tv.com
+www.kinozal-tv.com
+kinozal.tv
+www.kinozal.tv
+kinozal.me
+www.kinozal.me
+kinozal.guru
+www.kinozal.guru
+forum.kinozal.tv
+forum.kinozal.me
+forum.kinozal.guru
+kinozal.jumpingcrab.com
+kinozal.cloudns.nz
 
 # toshl
 toshl.com
@@ -1130,6 +1214,51 @@ d3b8d9.cdn.akinoncloud.com
 img-rebul.mncdn.com
 akinoncloud.com
 mncdn.com
+dbimg.eu
+phuquoc.newworldhotels.com
+kpopping.com
+www.kpopping.com
+cdn.kpopping.com
+104.26.8.80
+static.kpopping.com
+assets.kpopping.com
+quizlet.com
+www.quizlet.com
+assets.quizlet.com
+o.quizlet.com
+help.quizlet.com
+quizlet.live
+trakt.tv
+www.trakt.tv
+api.trakt.tv
+apiz.trakt.tv
+developer.trakt.tv
+forums.trakt.tv
+media.trakt.tv
+walter-r2.trakt.tv
+walter.trakt.tv
+all-h-ours.com
+www.all-h-ours.com
+image.static.bstage.in
+bstage.in
+www.bstage.in
+bemyfriends.com
+move.molchanovs.com
+molchanovs.com
+www.molchanovs.com
+molchanovs.knack.com
+cdn.bubble.io
+carrefour.es
+www.carrefour.es
+pass.carrefour.es
+www.pass.carrefour.es
+static.carrefour.es
+primark.com
+www.primark.com
+api001-arh.primark.com
+cdn-tiapef.primark.com
+primark.a.bigcontent.io
+corporate.primark.com
 
 # twitch
 vod-secure.twitch.tv
@@ -1167,11 +1296,17 @@ twitchcdn.net
 ext-twitch.tv
 ttvnw.net
 live-video.net
+twitchsvc.net
 
 # wardogs
+pragmaengine.com
 live.wardogs.bulkhead.pragmaengine.com
 api.epicgames.dev
 firstlook.gg
+wardogs.com
+account.wardogs.com
+community.wardogs.com
+54.115.0.0/16
 
 # x
 akamaized.net
